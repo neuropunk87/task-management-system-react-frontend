@@ -2,7 +2,7 @@ import axios from "axios";
 import { store } from "../store";
 import { logoutUser } from "./authSlice";
 
-const BASE_URL = "https://task-management-sys-backend-ef3eff66e369.herokuapp.com/api/";
+const BASE_URL = "https://task-management-system-api-68134d3fe526.herokuapp.com/api/";
 
 const axiosInstance = axios.create({
   baseURL: BASE_URL,
