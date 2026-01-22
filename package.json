@@ -12,7 +12,7 @@
     "@testing-library/jest-dom": "^6.6.3",
     "@testing-library/react": "^16.2.0",
     "@testing-library/user-event": "^13.5.0",
-    "autoprefixer": "^10.4.20",
+    "autoprefixer": "^10.4.23",
     "axios": "^1.8.2",
     "classnames": "^2.5.1",
     "framer-motion": "^12.23.26",
